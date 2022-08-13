@@ -24,7 +24,7 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeone-ofc/Alphab0t/blob/master/session.json#L1)
+[`Click Here`](https://github.com/SakuraHaruno16/Alphab0t/blob/master/session.json#L1)
 
 ## `SETTING`
 
